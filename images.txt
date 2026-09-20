@@ -1,2 +1,2 @@
-#支持指定架构
+#支持指定架构 
 --platform=linux/amd64 uozi/nginx-ui:latest
